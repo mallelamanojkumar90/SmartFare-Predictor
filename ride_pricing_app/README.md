@@ -40,6 +40,9 @@ ride_pricing_app/
 
 ## Deployment to Hugging Face Spaces
 
+The application is deployed and available at: [SmartFare Predictor on Hugging Face Spaces](https://huggingface.co/spaces/mallelamanoj75/ride-pricing-app)
+
+### How to deploy your own version:
 1. Create a new Space on [Hugging Face](https://huggingface.co/spaces).
 2. Select **Streamlit** as the SDK.
 3. Upload the following files to the Space:
